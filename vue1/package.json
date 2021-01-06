@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "ailabel": "^3.2.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^3.3.7",
     "echarts": "^4.7.0",
     "element-china-area-data": "^4.1.2",
